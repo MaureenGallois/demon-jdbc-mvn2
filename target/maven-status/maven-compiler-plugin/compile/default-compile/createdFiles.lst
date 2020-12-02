@@ -1,0 +1,13 @@
+fr/epsi/jdbc/TestJdbcArticles.class
+fr/epsi/jdbc/entites/Fournisseur.class
+fr/epsi/jdbc/dao/ArticleDaoJdbc.class
+fr/epsi/jdbc/TestDelete.class
+fr/epsi/jdbc/TestSelect.class
+fr/epsi/jdbc/TestUpdate.class
+fr/epsi/jdbc/dao/FournisseurDaoJdbc.class
+fr/epsi/jdbc/dao/ArticleDAO.class
+TestConnexionJDBC.class
+fr/epsi/jdbc/TestInsertion.class
+fr/epsi/jdbc/entites/Article.class
+fr/epsi/jdbc/dao/TextDAO.class
+fr/epsi/jdbc/dao/FournisseurDao.class
